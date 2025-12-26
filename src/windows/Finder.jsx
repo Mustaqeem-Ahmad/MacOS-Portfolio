@@ -54,6 +54,7 @@ const Finder = () => {
 
   return (
     <>
+    
       <div id="window-header">
         <WindowControls target="finder" />
         <Search className="icon" />

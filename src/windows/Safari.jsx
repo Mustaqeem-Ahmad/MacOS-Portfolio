@@ -58,6 +58,7 @@ const Safari = () => {
       </div>
     </div>
     </>
+    
   )
 }
 

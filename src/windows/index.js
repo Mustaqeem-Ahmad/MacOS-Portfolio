@@ -8,4 +8,4 @@ import Contact from "./Contact";
 import Photos from "./Photos";
 
 
-export { Terminal , Safari, Resume, Finder, Text, Image, Contact, Photos}
+export { Terminal , Safari, Resume, Finder, Text, Image, Contact, Photos }

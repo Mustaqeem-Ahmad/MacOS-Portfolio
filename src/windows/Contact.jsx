@@ -30,7 +30,6 @@ const Contact = () => {
             </li>
         ))}
       </ul>
-
     </div>
     </>
   )

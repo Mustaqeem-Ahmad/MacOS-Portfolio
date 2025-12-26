@@ -37,7 +37,6 @@ const Text = () => {
             </div>
             )
              : null}
-
       </div>
     </>
   );

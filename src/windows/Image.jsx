@@ -9,6 +9,7 @@ const ImageWindowContent = () => {
   const { windows } = useWindowStore();
   const data = windows.imgfile.data;
 
+  
   // safety (jab data null ho)
   if (!data) return null;
 

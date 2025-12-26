@@ -14,6 +14,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL(
 const Resume = () => {
   return (
     <>
+    
       <div  id="window-header">
           <WindowControls target="resume" />
           <h2>Resume.pdf</h2>

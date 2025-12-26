@@ -58,6 +58,7 @@ const Terminal = () => {
         </div>
       </div>
     </>
+    
   )
 }
 

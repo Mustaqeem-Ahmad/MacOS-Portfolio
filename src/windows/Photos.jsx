@@ -55,7 +55,6 @@ const Photos = () => {
             </ul>
          </div>
     </div>
-
     </>
   );
 };
