@@ -229,7 +229,7 @@ const WORK_LOCATION = {
       name: "Apple Clone",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-10 left-5", // icon position inside Finder
+      position: "top-10 left-3", // icon position inside Finder
       windowPosition: "top-[50vh] right-15", // optional: Finder window position
       children: [
         {
@@ -238,7 +238,7 @@ const WORK_LOCATION = {
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
-          position: "top-5 left-10",
+          position: "top-5 left-12",
           description: [
             "The Apple eCommerce website is a sleek and modern platform designed for exploring the latest Apple products.",
             "Instead of a simple online store, it delivers an immersive experience with crisp visuals, interactive product showcases, and smooth navigation.",
@@ -283,7 +283,7 @@ const WORK_LOCATION = {
       name: "AI Image Enhancer",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-52 right-90",
+      position: "top-10 left-37",
       windowPosition: "top-[20vh] left-7",
       children: [
         {
@@ -292,7 +292,7 @@ const WORK_LOCATION = {
           icon: "/images/txt.png",
           kind: "file",
           fileType: "txt",
-          position: "top-5 right-10",
+          position: "top-5 right-12",
           description: [
             "The AI Image Enhancer is a powerful tool designed to instantly improve the quality of your images with advanced algorithms.",
             "Instead of manually editing photos, it delivers an effortless experience with sharp details, vibrant colors, and noise reduction.",
@@ -337,7 +337,7 @@ const WORK_LOCATION = {
       name: "Snake Game",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-10 left-80",
+      position: "top-10 left-69",
       windowPosition: "top-[43vh] left-20",
       children: [
         {
@@ -391,7 +391,7 @@ const WORK_LOCATION = {
       name: "Kanban Board",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-50 left-95",
+      position: "top-45 left-3",
       windowPosition: "top-[23vh] right-7",
       children: [
         {
@@ -445,7 +445,7 @@ const WORK_LOCATION = {
       name: "Spylt",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-79 left-75",
+      position: "top-10 right-3",
       windowPosition: "top-[20vh] right-50",
       children: [
         {
@@ -499,7 +499,7 @@ const WORK_LOCATION = {
       name: "Significo",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-50 left-55",
+      position: "top-45 left-37",
       windowPosition: "top-[20vh] left-50",
       children: [
         {
