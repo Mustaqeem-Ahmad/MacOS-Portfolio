@@ -283,7 +283,7 @@ const WORK_LOCATION = {
       name: "AI Image Enhancer",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-52 right-80",
+      position: "top-52 right-90",
       windowPosition: "top-[20vh] left-7",
       children: [
         {
@@ -303,7 +303,7 @@ const WORK_LOCATION = {
         },
         {
           id: 2,
-          name: "ai-resume-analyzer.com",
+          name: "ai-image-enhancer.com",
           icon: "/images/safari.png",
           kind: "file",
           fileType: "url",
@@ -338,7 +338,7 @@ const WORK_LOCATION = {
       icon: "/images/folder.png",
       kind: "folder",
       position: "top-10 left-80",
-      windowPosition: "top-[33vh] left-7",
+      windowPosition: "top-[43vh] left-20",
       children: [
         {
           id: 1,
@@ -372,6 +372,168 @@ const WORK_LOCATION = {
           fileType: "img",
           position: "top-52 right-80",
           imageUrl: "/images/project-3.png",
+        },
+        {
+          id: 5,
+          name: "Design.fig",
+          icon: "/images/plain.png",
+          kind: "file",
+          fileType: "fig",
+          href: "https://google.com",
+          position: "top-60 right-20",
+        },
+      ],
+    },
+
+    // ▶ Project 4
+    {
+      id: 7,
+      name: "Kanban Board",
+      icon: "/images/folder.png",
+      kind: "folder",
+      position: "top-50 left-95",
+      windowPosition: "top-[23vh] right-7",
+      children: [
+        {
+          id: 1,
+          name: "Kanban Board Project.txt",
+          icon: "/images/txt.png",
+          kind: "file",
+          fileType: "txt",
+          position: "top-5 left-10",
+          description: [
+            "The Kanban Board is a simple and interactive task management tool built using HTML, CSS, and JavaScript.",
+            "Instead of a basic static to-do list, it delivers an organized workflow experience with draggable tasks, clear columns, and real-time updates.",
+            "Think of it like a digital task board used by teams—but fully manageable right in your browser.",
+            "It's built with modern web technologies, ensuring smooth performance, responsive design, and a clean, professional interface."
+
+          ],
+        },
+        {
+          id: 2,
+          name: "kanban-board.com",
+          icon: "/images/safari.png",
+          kind: "file",
+          fileType: "url",
+          href: "https://kanbanboard-olive-delta.vercel.app/",
+          position: "top-10 right-20",
+        },
+        {
+          id: 4,
+          name: "kanban-board.png",
+          icon: "/images/image.png",
+          kind: "file",
+          fileType: "img",
+          position: "top-52 right-80",
+          imageUrl: "/images/project-4.png",
+        },
+        {
+          id: 5,
+          name: "Design.fig",
+          icon: "/images/plain.png",
+          kind: "file",
+          fileType: "fig",
+          href: "https://google.com",
+          position: "top-60 right-20",
+        },
+      ],
+    },
+
+    // ▶ Project 5
+    {
+      id: 7,
+      name: "Spylt",
+      icon: "/images/folder.png",
+      kind: "folder",
+      position: "top-79 left-75",
+      windowPosition: "top-[20vh] right-50",
+      children: [
+        {
+          id: 1,
+          name: "Spylt Project.txt",
+          icon: "/images/txt.png",
+          kind: "file",
+          fileType: "txt",
+          position: "top-5 left-10",
+          description: [
+          "The Spylt website is a modern and visually engaging web experience inspired by the bold design and smooth interactions of spylt.com.",
+          "Instead of a simple static landing page, it delivers an immersive feel with eye-catching animations, stylish layouts, and fluid scrolling effects.",
+          "Think of it like a high-end brand showcase website—but recreated to work smoothly right inside your browser.",
+          "It's crafted using modern web technologies to ensure high performance, responsive design, and a sleek, premium-looking interface."
+
+          ],
+        },
+        {
+          id: 2,
+          name: "spylt.com",
+          icon: "/images/safari.png",
+          kind: "file",
+          fileType: "url",
+          href: "https://spyltmustaqeem.vercel.app/",
+          position: "top-10 right-20",
+        },
+        {
+          id: 4,
+          name: "spylt.png",
+          icon: "/images/image.png",
+          kind: "file",
+          fileType: "img",
+          position: "top-52 right-80",
+          imageUrl: "/images/project-5.png",
+        },
+        {
+          id: 5,
+          name: "Design.fig",
+          icon: "/images/plain.png",
+          kind: "file",
+          fileType: "fig",
+          href: "https://google.com",
+          position: "top-60 right-20",
+        },
+      ],
+    },
+
+    // ▶ Project 6
+    {
+      id: 7,
+      name: "Significo",
+      icon: "/images/folder.png",
+      kind: "folder",
+      position: "top-50 left-55",
+      windowPosition: "top-[20vh] left-50",
+      children: [
+        {
+          id: 1,
+          name: "Significo.txt",
+          icon: "/images/txt.png",
+          kind: "file",
+          fileType: "txt",
+          position: "top-5 left-10",
+          description: [
+          "The website presents a modern and people-focused digital experience that highlights collaboration, creativity, and thoughtful design.",
+          "Instead of a generic corporate layout, it creates a warm and engaging atmosphere with real team interactions, clean typography, and balanced visuals.",
+          "Think of it like a creative studio’s online presence—where ideas are shaped through discussion, empathy, and shared vision.",
+          "It's designed using modern web principles to deliver clarity, responsiveness, and a trustworthy, human-centered interface."
+
+          ],
+        },
+        {
+          id: 2,
+          name: "significo.com",
+          icon: "/images/safari.png",
+          kind: "file",
+          fileType: "url",
+          href: "https://significobymustaqeem.vercel.app/",
+          position: "top-10 right-20",
+        },
+        {
+          id: 4,
+          name: "significo.png",
+          icon: "/images/image.png",
+          kind: "file",
+          fileType: "img",
+          position: "top-52 right-80",
+          imageUrl: "/images/project-6.png",
         },
         {
           id: 5,
